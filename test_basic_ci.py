@@ -16,7 +16,7 @@ def test_ci_is_working():
 def test_ci_should_fail():
     assert 1 + 1 == 3
 
-# abcabcabcabcabcabcabcabc zz
+# abcabcabcabcabcabcabcabc zzㅁㅁㅁ
 
 # ㄴㄴ 녹방 ㄴㄴㄴㄴㄴㄴㄴㄴㄴ 질문 opr 도움 요청
 # 인강 vs 현재강의 diff
